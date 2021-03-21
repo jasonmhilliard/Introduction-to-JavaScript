@@ -5,7 +5,7 @@ I. File list
 ------------
 Introduction to JavaScript- Variables, Arrays, Functions, Objects and Loops - Microsoft Word Document
 
-ES6_Style_Guide - TEXT File
+ES6_Style_Guide - MD File
 
 
 II. Concept
